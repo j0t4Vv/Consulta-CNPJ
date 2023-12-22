@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+body{
+    background-color: green;
+
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
